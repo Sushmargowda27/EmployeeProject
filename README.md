@@ -1,1 +1,1 @@
-# Hibernate Project
+# Hibernate Projects
