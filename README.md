@@ -1,1 +1,1 @@
-# EmployeeProject
+# Hibernate Project
